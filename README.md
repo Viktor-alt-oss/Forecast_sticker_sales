@@ -1,4 +1,4 @@
-# Forecasting Sticker Sales - Kaggle Playground Series 2025
+# 🦆Forecasting Sticker Sales - Kaggle Playground Series 2025
 
 ## Project Overview
 **Project Name:** Forecasting Sticker Sales for Kaggle-branded Products  
